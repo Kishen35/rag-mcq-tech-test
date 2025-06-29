@@ -1,9 +1,14 @@
 ipykernel
+jupyter
 nest_asyncio
 sentence-transformers
 llama_index
 llama-index-llms-google-genai
 llama-index-embeddings-google_genai
 google-generativeai
-llama-index-llms-ollama
 llama-index-embeddings_huggingface
+unstructured[pdf]
+langchain-community
+langchain-core
+langchain-google-genai
+chromadb
